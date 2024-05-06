@@ -1,3 +1,0 @@
-[0407/223907.205:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
-[0407/223911.193:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0407/224107.547:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
