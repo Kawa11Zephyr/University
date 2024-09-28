@@ -1,3 +1,2 @@
-2024/04/20-15:45:11.917 2810 Reusing MANIFEST D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/20-15:45:11.926 2810 Recovering log #3
-2024/04/20-15:45:11.926 2810 Reusing old log D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/10-02:04:57.546 2f88 Creating DB D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/05/10-02:04:57.561 2f88 Reusing MANIFEST D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
