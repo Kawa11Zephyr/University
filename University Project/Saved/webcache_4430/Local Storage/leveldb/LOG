@@ -1,2 +1,3 @@
-2024/05/10-02:04:57.546 2f88 Creating DB D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/05/10-02:04:57.561 2f88 Reusing MANIFEST D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/10/05-16:37:05.999 27ec Reusing MANIFEST D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/10/05-16:37:06.012 27ec Recovering log #3
+2024/10/05-16:37:06.016 27ec Reusing old log D:/GitUnic/University/University Project/Saved/webcache_4430\Local Storage\leveldb/000003.log 
